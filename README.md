@@ -5,7 +5,7 @@
 Authentication screen<br>
 <image src="./assets/readme_image/auth.png" height="300"/>
 
-Register screen
+Register screen<br>
 <image src="./assets/readme_image/register.png" height="300"/>
 
 Main list chat<br>
